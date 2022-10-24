@@ -34,7 +34,7 @@ const students = [
   },
   {
     id: 6,
-    name: "Victoire Le BG",
+    name: "Victoire La BG",
     category: "student",
   },
   {
